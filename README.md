@@ -1,8 +1,7 @@
 
 # Prof. Leonardo Pupo – Currículo Digital
 
-[![GitHub followers](https://img.shields.io/github/followers/profLeoPupo?label=Seguidores&style=social)](https://github.com/profLeoPupo)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Conecte--se-blue)](https://www.linkedin.com/in/seu-perfil) <!-- caso tenha -->
+[![Linkedin](https://img.shields.io/badge/Linkedin-Conecte--se-blue)](https://www.linkedin.com/in/prof-leopupo) <!-- caso tenha -->
 
 ---
 
