@@ -1,100 +1,92 @@
-
-# Prof. Leonardo Pupo – Currículo Digital
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-Conecte--se-blue)](https://www.linkedin.com/in/prof-leopupo) <!-- caso tenha -->
+# Leonardo Pupo  
+**Brasileiro, 33 anos, solteiro**  
 
 ---
 
-## Apresentação
-
-Sou **Leonardo Pupo**, brasileiro, 33 anos, solteiro, com mais de 15 anos de experiência nas áreas de Tecnologia da Informação, suporte técnico, ensino e elétrica.  
-Atuo com foco na acessibilidade digital, inovação e na transmissão de conhecimento de forma prática e transparente.
-
-**Contatos:**
-
-- **Telefone:** (11) 932.519.655 / (11) 965.801.455  
-- **E-mails:** [leopupo.ti@sactecnico.com.br](mailto:leopupo.ti@sactecnico.com.br) | [leopupo.ti@gmail.com](mailto:leopupo.ti@gmail.com)  
-- **Local:** Itaquaquecetuba, SP
+## 📌 Apresentação  
+Profissional com mais de 15 anos de experiência em TI, suporte técnico, ensino e elétrica. Atuo com foco em **acessibilidade digital**, **inovação** e **transmissão de conhecimento** de forma prática e transparente.  
 
 ---
 
-## Objetivo Profissional
-
-Atuar como analista de suporte técnico ou instrutor em áreas relacionadas à tecnologia da informação, elétrica ou afins, contribuindo para o desenvolvimento técnico e o aprimoramento da infraestrutura tecnológica de empresas e clientes.
-
----
-
-## Experiência Profissional
-
-### Grupo Novotec/Sequencial  
-*Professor Técnico*  
-**Período:** 04/2024 – 12/2024  
-- Ministrou mais de 500 horas de aulas em escolas estaduais no curso técnico de Informática para Internet.
-- Abordou conteúdos práticos e teóricos, com foco em desenvolvimento web, lógica de programação e ferramentas tecnológicas.
-
-### Samuel Martins Elétrica Geral  
-*Auxiliar de Elétrica*  
-**Período:** 05/2019 – 10/2023  
-- Participou de projetos elétricos completos, desde a elaboração de projetos até a execução de obras em residências e instalações industriais.
-- Responsável pela instalação de equipamentos e passagem de condutores, garantindo a eficiência do sistema elétrico.
-
-### APDL (Associação Programa de Desenvolvimento)  
-*Instrutor Técnico*  
-**Períodos:**  
-- 04/2016 – 11/2016  
-- 04/2018 – 11/2018  
-- Ministrou aulas técnicas de informática para projetos sociais, abordando desde conceitos básicos até ferramentas de produtividade.
-- Conduziu turmas de 30 alunos, atingindo 100% de aproveitamento nos cursos intensivos de 30 dias úteis consecutivos.
+## 📞 Contatos  
+- **Telefone:** (11) 932.519.655 | (11) 965.801.455  
+- **E-mails:** leopupo.ti@sactecnico.com.br | leopupo.ti@gmail.com  
+- **Local:** Itaquaquecetuba, SP  
 
 ---
 
-## Habilidades e Competências
-
-- **Didática:** Experiência consolidada em ministrar aulas técnicas para diversos públicos.  
-- **Comunicação:** Capacidade para explicar conteúdos complexos de maneira clara e acessível.  
-- **Atendimento ao Cliente:** Expertise em suporte técnico e resolução de problemas.  
-- **Raciocínio Lógico:** Habilidade para identificar e solucionar desafios técnicos e práticos.  
-- **Trabalho em Equipe:** Colaboração efetiva em projetos educacionais e técnicos.
+## 🎯 Objetivo Profissional  
+Atuar como **analista de suporte técnico** ou **instrutor** em tecnologia da informação ou elétrica, contribuindo para o desenvolvimento técnico e aprimoramento de infraestruturas tecnológicas.  
 
 ---
 
-## Formação Acadêmica
+## 💼 Experiência Profissional  
 
-- **Gestão em Tecnologia da Informação** – Universidade Cruzeiro do Sul *(Cursando)*
-- **Análise e Desenvolvimento de Sistemas** – Curso trancado em 2011
+### 🎓 Instrutor Técnico  
+**Aeronet Cursos** | Itaquaquecetuba, SP  
+*(03/2025 - Atual)*  
+- Ministro cursos de TI (básico a avançado): informática, programação, help desk e segurança.  
+- Módulos: MS Office, manutenção de micros, desenvolvimento de apps, web e games.  
+
+### 👨‍🏫 Professor Técnico  
+**Grupo Novitec/Sequencial** | Itaquaquecetuba, SP  
+*(04/2024 - 12/2024)*  
+- Ministrei **500+ horas** de aulas no curso *Técnico em Informática para Internet* para ensino médio.  
+- Conteúdos: desenvolvimento web, lógica de programação e ferramentas tecnológicas.  
+
+### ⚡ Auxiliar de Elétrica  
+**Samuel Martins Elétrica Geral** | São Paulo  
+*(01/2019 - 04/2023)*  
+- Executei projetos elétricos completos em residências e instalações industriais.  
+- Responsável por instalação de equipamentos, passagem de condutores e eficiência energética.  
 
 ---
 
-## Cursos e Certificações
+## 🛠️ Habilidades e Competências  
+- **Didática:** Experiência em ministrar aulas técnicas para diversos públicos  
+- **Comunicação:** Explicação de conceitos complexos de forma clara  
+- **Atendimento ao Cliente:** Expertise em suporte técnico e resolução de problemas  
+- **Raciocínio Lógico:** Solução de desafios técnicos e práticos  
+- **Tecnologias:** Python, JavaScript, HTML/CSS, SQL Server  
+- **Ferramentas:** Visual Studio Code, Github, Libre Office... 
+- **Sistemas:** Windows, Linux  
 
-### SENAI
+---
+
+## 🎓 Formação Acadêmica  
+- **Gestão em Tecnologia da Informação** (Cursando)  
+  *Universidade Cruzeiro do Sul*  
+- **Análise e Desenvolvimento de Sistemas** (Trancado)  
+  *Faculdade Drummond de Andrade*  
+
+---
+
+## 📚 Cursos e Certificações  
+**SENAI**  
 - Técnico em Eletricista Instalador (2024)  
 - Empreender (20h, 2020)  
 - Lógica de Programação (14h, 2020)  
-- Metrologia (14h, 2020)  
-- Segurança do Trabalho (2020)  
-- Tecnologia da Informação e Comunicação (2020)  
-- Noções Básicas de Mecânica Automotiva (14h, 2020)
 
-### ENGEHALL
+**ENGEHALL**  
 - NR10 – Segurança em Instalações Elétricas (160h)  
-- NR35 – Segurança de Trabalhos em Altura (40h)
+- NR35 – Segurança em Trabalhos em Altura (40h)  
 
-### Associação Brasileira de Educação Online
-- Técnico em Informática (60h, 2021)
-
----
-
-## Idiomas
-
-- **Inglês:** Avançado (nível técnico) – 2 anos de curso no CNA Idiomas
+**Associação Brasileira de Educação Online**  
+- Técnico em Informática (60h, 2021)  
 
 ---
 
-## Mais Informações
-
-Este currículo digital está sempre atualizado e disponível online, reforçando meu compromisso com a transparência, a inovação e a acessibilidade digital. Durante a entrevista, fique à vontade para explorar meu perfil e projetos no [GitHub](https://github.com/profLeoPupo/profLeoPupo).
+## 🌐 Idiomas  
+- **Inglês:** Avançado (nível técnico)  
+  *2 anos de curso no CNA Idiomas*  
+- **Português:** Nativo  
 
 ---
 
-*Atualizado em 2025 – Prof. Leonardo Pupo*
+## ℹ️ Mais Informações  
+- **CNH:** Categoria B | **Veículo:** Carro particular  
+- **Disponibilidade:** Período Integral | **Contrato:** CLT  
+- *Currículo sempre atualizado online, com projetos disponíveis no GitHub*  
+
+---  
+*Atualizado em 2025 – Prof. Leonardo Pupo*  
